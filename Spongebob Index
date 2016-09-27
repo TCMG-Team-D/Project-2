@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Kathleen Sinor E-Portfolio Home</title>
+<!-- created by: Kathleen Sinor, Section 501 -->
+</head>
+<body background= "Wallpaper.jpg">
+<body>
+<table border="3" align="center" width="800px" cellpadding="15px">
+<tr>
+<td bgcolor="white">
+<center><h1> Kathleen Sinor E-Portfolio Home</h1><center>
+<hr></hr>
+<center><a>Home</a> | 
+<a href="gallery.html">Gallery</a><center>
+<hr></hr>
+<img src="kathleenroommate.JPG" border="5" align="center" alt="main picture">
+<h2> Howdy!</h2>
+<p>Welcome to my e-portfolio! I am freshman technology management major at <a href="http://tamu.edu">Texas A&amp;M University</a>.
+I am involved in a freshmen leadership organization called FLiP, a women's organization called Ryllies, a national defense
+leadership organization called Silver Wings, and am a Fish Camp counselor for session B camp Barttlebort.
+<a href="http://rylliesselections.wix.com/rylliestamu">Ryllies</a> 
+is a women's organization that focuses on serving the community while upholding the pillars Texas A&amp;M was founded upon. Ryllies stands for
+respecting youself while demonstrating leadership, loyalty, integrity, excellence, and selfless service.
+</p>
+<p> As you may have noticed, I am a loud and proud member of the Fighting Texas Aggie Class of 2018. 
+AAAAAAAAAA! This is where you can learn more about my passions in life. If you have any questions feel free to
+shoot me an email located at the bottom of the website.</p>
+<p>Thanks and Gig'Em!</p>
+<hr></hr>
+<a href="mailto:kathleensinor@tamu.edu">Contact Me</a>
+</body>
+</td>
+</tr>
+</table>
+</html>
