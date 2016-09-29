@@ -1,0 +1,40 @@
+
+<html>
+<head>
+<title>Spongebob Squarepants</title>
+<!-- created by: Alexandra Espinosa,  -->
+</head>
+<body background= "Background.jpg">
+<body>
+<table border="3" align="center" width="800px" cellpadding="15px">
+<tr>
+<td bgcolor="pink">
+<center><h1> Spongebob Squarepants </h1><center>
+<hr></hr>
+<center><a>Home</a> | 
+<a href="gallery.html">Patrick</a>| <a href="gallery.html">Squidward</a><center>
+<hr></hr>
+<img src="Spongebob.jpg" border="5" align="center" alt="main picture">
+<h2> All about Spongebob!! </h2>
+<p>Hey there everyone! My name is SpongeBob and I live in a pineapple under the sea! I work at the Crusty 
+Crap, where I make crabby patties! I also have to keep the secret formula safe from people like 
+Plankton. He is always trying to steal the secret formula. But enough about that. My best friend is 
+Patrick and we love blowing bubbles together and going jelly fishing together!!! I also have a pet snail,
+Gary! We’re best friends too! Oh yeah how could I forget about Squidward my other best friend!!!  
+
+</p>
+<p> text goes here </p>
+<hr></hr>
+<center><h1> Welcome to my home </h1><center>
+<img src="house.jpg" border="5" align="center" alt="hosue picture">
+<hr></hr>
+<center><h1> Take a look inside </h1><center>
+<img src="inside.jpg" border="5" align="center" alt="hosue inside picture">
+<br>
+<a href="mailto:kathleensinor@tamu.edu">Contact Me</a>
+<hr></hr>
+</body>
+</td>
+</tr>
+</table>
+</html>
